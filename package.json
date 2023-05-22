@@ -1,0 +1,20 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "main": "scrapper.js",
+  "scripts": {
+    "start": "nodemon scrapper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node": "^18.16.0",
+    "pupeteer": "^0.0.1",
+    "puppeteer": "^20.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
